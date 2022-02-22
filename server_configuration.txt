@@ -1,0 +1,5 @@
+# SERVER CONFIGURATION FILE
+#
+server_address=192.168.1.180
+server_port=8006
+server_listen_backlog=100

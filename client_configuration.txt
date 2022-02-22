@@ -1,0 +1,8 @@
+# CLIENT CONFIGURATION FILE
+#
+server_address=192.168.1.180
+server_port=8006
+total_client_connections=1000
+echo_iterations_per_client=100
+echo_string=helloworld
+socket_timeout=1
